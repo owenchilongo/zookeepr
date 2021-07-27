@@ -162,6 +162,41 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "Liger",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "17"
+    },
+    {
+      "name": "Liger",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "18"
+    },
+    {
+      "name": "Fox",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "19"
+    },
+    {
+      "name": "Chicken",
+      "species": "Bird",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "20"
+    },
+    {
+      "name": "Salmon",
+      "species": "Fish",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "21"
     }
   ]
 }
