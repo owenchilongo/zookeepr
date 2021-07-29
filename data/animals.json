@@ -197,6 +197,20 @@
       "diet": "herbivore",
       "personalityTraits": [],
       "id": "21"
+    },
+    {
+      "name": "People",
+      "species": "Humans",
+      "diet": "omnivore",
+      "personalityTraits": [],
+      "id": "22"
+    },
+    {
+      "name": "Sable",
+      "species": "Antelope",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "23"
     }
   ]
 }
